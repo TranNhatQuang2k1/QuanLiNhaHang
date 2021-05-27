@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe.config
+C:\Users\ASUS\source\repos\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.exe
+C:\Users\ASUS\source\repos\QuanLiNhaHang\bin\Debug\QuanLiNhaHang.pdb
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Login.resources
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.exe
+C:\Users\ASUS\source\repos\QuanLiNhaHang\obj\Debug\QuanLiNhaHang.pdb
+C:\Users\ASUS\source\repos\Quanlinhahang\obj\Debug\QuanLiNhaHang.GUI.Form5.resources
+C:\Users\ASUS\source\repos\Quanlinhahang\obj\Debug\QuanLiNhaHang.GUI.Form6.resources
+C:\Users\ASUS\source\repos\Quanlinhahang\obj\Debug\QuanLiNhaHang.GUI.Form7.resources
+C:\Users\ASUS\source\repos\Quanlinhahang\obj\Debug\QuanLiNhaHang.GUI.frmMain.resources
